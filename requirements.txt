@@ -1,2 +1,2 @@
 streamlit
-pyabsa
+pyabsa==2.4.2
